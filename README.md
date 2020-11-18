@@ -1,6 +1,9 @@
 # Getting Started 
-Simple weather widget application
-You need to edit .env file and place your openweathermap key before starting the project
+Simple weather widget application.
+
+You need to edit `.env` file and place your openweathermap key before starting the project
+
+Feel free to visit built and deployed application [https://compassionate-shirley-fa72d2.netlify.app/](https://compassionate-shirley-fa72d2.netlify.app/)
 
 ## Available Scripts
 
